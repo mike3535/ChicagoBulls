@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chicago Bulls</string>
+    <string name="playerName">Derrick Rose</string>
+    <string-array name="players">
+        <item>Derrick Rose</item>
+        <item>Jimmy Butler</item>
+        <item>Doug McDermott</item>
+        <item>Taj Gibson</item>
+        <item>Joakin Noah</item>
+    </string-array>
+
+</resources>
